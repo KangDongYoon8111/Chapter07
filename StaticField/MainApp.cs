@@ -28,6 +28,11 @@ namespace StaticField
         {
             Global.Count++;
         }
+
+        public static void Main()
+        {
+
+        }
     }
 
     class MainApp
